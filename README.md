@@ -16,4 +16,5 @@ Clone the repo and run npm
 ## Usage <a id="usage"></a>
 Run npm start. 
 ## Visual <a id="visual"></a>
-npm i @babel/plugin-proposal-object-rest-spread
+
+<img width="1509" alt="Screenshot 2023-06-05 at 4 22 47 PM" src="https://github.com/ltram16/editor/assets/119918403/8a30444f-2a7a-4fc4-8eb5-c44d2ab8dc62">
