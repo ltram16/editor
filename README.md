@@ -16,3 +16,4 @@ Clone the repo and run npm
 ## Usage <a id="usage"></a>
 Run npm start. 
 ## Visual <a id="visual"></a>
+npm i @babel/plugin-proposal-object-rest-spread
